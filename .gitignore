@@ -1,0 +1,42 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+frontend/.next/
+frontend/out/
+npm-debug.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+venv/
+env/
+backend/news.db
+
+# IDE
+.vscode/
+.idea/
+
+# SQLite DBs
+*.db
+*.db-*
+backend/*.db
+backend/*.db-*
+
+# Agent files
+.agents/
+frontend/.agents/
+skills-lock.json
+frontend/skills-lock.json
+
+# Logs
+logs/
+backend/logs/
+*.log
+
